@@ -42,7 +42,6 @@ Choose a fractal :
 ### Events
 
 KEYS | DESCRIPTION
-:-- |:-:| --:
 <kbd>ESC</kbd> | Exit the program
 <kbd>ARROWS</kbd> | Move map(x,y)
 <kbd>1/2/3/4/5/6</kbd> | Other fractal
