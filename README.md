@@ -66,7 +66,7 @@ KEYS | DESCRIPTION
 
 ### Example
 
-![fractol_mandelbrot](./fractal.jpg "fractol_mandelbrot")
+![fractol_mandelbrot](./fractal.png "fractol_mandelbrot")
 
 ### Deployment
 
